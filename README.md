@@ -1,4 +1,7 @@
-![GenAI] # GeminiChatPOC
+
+<img src="[images/example.png](https://freebiehive.com/wp-content/uploads/2023/12/Google-Gemini-AI-Logo.jpg)" width="300" /> 
+
+# GeminiChatPOC
 
 ![badge-languages] ![badge-platforms] ![badge-mit]
 
