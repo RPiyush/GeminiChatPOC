@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>replace your key here</string>
+	<string>Get API KEY from https://makersuite.google.com/app/apikey and replace here.</string>
 </dict>
 </plist>
