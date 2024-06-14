@@ -1,2 +1,3 @@
 # GeminiChatPOC
-POC to verify how gemini chat will work
+
+POC to verify how Google's Generative AI (GenAI) framework will work. 
