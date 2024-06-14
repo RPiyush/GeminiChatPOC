@@ -1,9 +1,5 @@
 
-<img src="https://freebiehive.com/wp-content/uploads/2023/12/Google-Gemini-AI-Logo.jpg" width="300" />
-
-<img src="[images/example.png](https://freebiehive.com/wp-content/uploads/2023/12/Google-Gemini-AI-Logo.jpg)" width="300" /> 
-
-# GeminiChatPOC
+<img src="https://freebiehive.com/wp-content/uploads/2023/12/Google-Gemini-AI-Logo.jpg" width="50" /> # GeminiChatPOC
 
 ![badge-languages] ![badge-platforms] ![badge-mit]
 
