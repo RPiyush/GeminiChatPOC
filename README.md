@@ -1,5 +1,5 @@
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="150" /> GeminiChatPOC
+# <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="150" /> Chat_POC
 
 ![badge-languages] ![badge-platforms] ![badge-mit]
 
