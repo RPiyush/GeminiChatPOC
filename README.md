@@ -5,6 +5,9 @@
 
 POC to verify how Google's Generative AI (GenAI) framework will work. 
 
+
+<img src="https://github.com/user-attachments/assets/55e994c1-aaff-448d-aa41-25c4710ae4bd" width=30% height=30%>
+
 [badge-platforms]: https://img.shields.io/badge/platforms-iOS-lightgrey.svg
 [badge-languages]: https://img.shields.io/badge/language-Swift-orange
 [badge-mit]: https://img.shields.io/badge/license-MIT-blue.svg
